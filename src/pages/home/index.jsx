@@ -1,9 +1,7 @@
 function Home() {
     return (
         <div>
-            <h1>sobre</h1>
-            <h3>Estilização CSS</h3>
-            <p>Texto do meu sobre</p>
+            <h1>Aula de React Vitejs</h1>
         </div>
     )
 }
